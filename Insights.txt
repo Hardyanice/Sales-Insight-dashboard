@@ -1,0 +1,10 @@
+Key Insights from Sales Insight Dashboard (2023–2024)
+•	Overall performance remains healthy, with total sales of 189.2M and a profit margin of 21.6%, indicating efficient cost management despite discounting across product lines.
+•	Regional performance shows a clear sales–profit contrast: while the South and East generate the highest sales, the West region lags slightly in profitability, suggesting margin pressure despite reasonable revenue contribution.
+•	Sales exhibit strong seasonality, with noticeable peaks toward the end of each year, highlighting the importance of year-end demand in driving overall revenue growth.
+•	Product mix analysis reveals dependency on a few high-performing sub-categories: Electronics (especially Laptops and Tablets) and Furniture (Chairs) contribute a disproportionately large share of total sales, increasing concentration risk.
+•	Top 10 customers account for a significant share of revenue, but profitability varies by customer segment, indicating that high sales do not always translate into higher profit due to differing discount strategies.
+•	Discount vs Profit analysis shows diminishing returns beyond moderate discount levels: higher average discounts (≈10–12%) are often associated with lower or volatile profit, suggesting that aggressive discounting does not consistently improve profitability.
+
+Tableau Public Link for dashboard: 
+https://public.tableau.com/app/profile/souhardya.das/viz/Assignment_17661868431540/KPIDashboard?publish=yes
